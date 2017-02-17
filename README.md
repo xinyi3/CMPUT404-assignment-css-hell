@@ -22,3 +22,16 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+
+Part 1 css additions:
+    - Changed font, added this line 
+        "<link href='//fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>"
+        in all html files to use the google free font.
+    - Changed image, added border to the image and made it fade a bit to blend with text
+    - Changed background color to match old book paper color
+    
+ebooks used:
+http://www.gutenberg.org/ebooks/19033
+http://www.gutenberg.org/ebooks/84
+http://www.gutenberg.org/ebooks/1342
+    
