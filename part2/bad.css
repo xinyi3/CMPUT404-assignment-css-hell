@@ -1,0 +1,52 @@
+.skills {
+    float: left;
+    box-shadow:0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    background-color: green;
+
+}
+
+header, footer {
+    padding: 1em;
+    color: dimgrey;
+    background-color: purple;
+    clear: left;
+    text-align: left;
+}
+
+article.about {
+    margin-left: 180px;
+    margin-right: auto;
+    overflow: hidden;
+    background-color: brown;
+    text-align: center;
+    color: whitesmoke;
+}
+
+article.history {
+    margin-left: 180px;
+    margin-right: auto;
+    padding: 2em;
+    overflow: hidden;
+    background-color: red;
+    text-align: right;
+    color: yellow;
+}
+
+article.offer {
+    margin-right: auto;
+    padding: 2em;
+    overflow: hidden;
+    background-color: blue;
+    text-align: left;
+}
+
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: skyblue;
+}
+
+.profile_img{
+    transform: rotate(50deg);
+    max-width: 10em;
+    border-radius: 30px;
+}
